@@ -1,4 +1,3 @@
-
 # Projet_container
 
 ## Objectif
@@ -89,5 +88,3 @@ Nous pouvons constater que la modification a bien été effectuée après avoir 
 Une fois votre tâche terminée, vous avez la possibilité de la supprimer en cliquant sur 'Fait' :
 
 ![Mon Image](images/image_suppression_avec_fait.png)
-
-#### Author: [Matias ORDONEZ, Emeline PELLAN, Caroline TRUONG, Pooranan VYTHESWARAN]
